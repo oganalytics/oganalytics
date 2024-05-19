@@ -34,5 +34,5 @@
 
 ## 🌐 Свяжитесь со мной
 
-- [Telegram](https://t.me/okshitman)
+- [Telegram](https://t.me/oganalytics)
 - [Email](lokkicarol@gmail.com)
