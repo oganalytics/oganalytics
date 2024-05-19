@@ -15,7 +15,7 @@
 
 ## 🏆 Достижения
 
-- Финалист хакатона **[MOEXALGO](https://github.com/oganalytics/MOEX-ALGO)** от Мосбиржи по алготрейдингу: **top15** (8/157) - **[Диплом](https://drive.google.com/file/d/153_vE3F4-4ph8utzRLz1YoNy0-PvBtuN/view?usp=sharing)**
+- **[Финалист хакатона](https://goalgo.ru/)**  **[MOEXALGO](https://github.com/oganalytics/MOEX-ALGO)** от Мосбиржи по алготрейдингу: **top15** (8/157) - **[Диплом](https://drive.google.com/file/d/153_vE3F4-4ph8utzRLz1YoNy0-PvBtuN/view?usp=sharing)**
 
 
 ## 👨‍💻 Мой стек
